@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Meu Site</title>
-  <link rel="stylesheet" href="ANC Marketing.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
